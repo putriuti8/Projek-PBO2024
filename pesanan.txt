@@ -1,0 +1,33 @@
+--- STRUK PEMESANAN ---
+Nama Penyewa: Mimin
+Kontak Penyewa: 081231718243
+Nama Kompetisi: BadmintonDay
+Lapangan: Lapangan Badminton
+Tanggal: 2025-01-11
+Waktu Mulai: 08:00
+Durasi: 6.0 jam
+Fasilitas Tambahan: Ya
+Total Biaya: Rp510000.0
+
+--- STRUK PEMESANAN ---
+Nama Penyewa: Putri
+Kontak Penyewa: 08123162783
+Nama Kompetisi: Futsal Day
+Lapangan: Lapangan Futsal
+Tanggal: 2025-01-13
+Waktu Mulai: 09:00
+Durasi: 7.0 jam
+Fasilitas Tambahan: Tidak
+Total Biaya: Rp840000.0
+
+--- STRUK PEMESANAN ---
+Nama Penyewa: Dudung
+Kontak Penyewa: 0812874629
+Nama Kompetisi: Futsal Informatika
+Lapangan: Lapangan Futsal
+Tanggal: 2025-01-13
+Waktu Mulai: 09:00
+Durasi: 8.0 jam
+Fasilitas Tambahan: Tidak
+Total Biaya: Rp960000.0
+
